@@ -8,7 +8,10 @@
 	
 	<body>
 		<p>Hello World</p>
-		<p> this is the last change made </p>
+<<<<<<< HEAD
+		<p> this is the last change made. </p>
+=======
+>>>>>>> 1a6c22b9eab6d112eecf10806680a9fb5ecfed73
 	</body>
 
 	</html>
