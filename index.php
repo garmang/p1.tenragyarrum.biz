@@ -4,10 +4,13 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Hello World</title>
+		<?php
+		echo "Hello World today";
+		?>
 	</head>
 	
 	<body>
-		<p>Hello World</p>
+		
 		<p> new line of code is the best</p>
 	</body>
 
