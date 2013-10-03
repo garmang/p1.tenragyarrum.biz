@@ -2,8 +2,21 @@
 	<html>
 	
 		<head>
-		<meta charset="utf-8">
+		<meta charset="utf-8"><!-- This is a stylesheet coloring all h1 and h2 elements blue and background green-->
+		
+		
 		<title>Garnett</title>
+		<style>
+			h1, h2
+			{
+			text-shadow: 1px 5px 5px blue;
+			}
+			body
+			{
+			background-color: green;
+			}
+		</style>
+
 		</head>
 		
 			<body>
